@@ -1,0 +1,9 @@
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/TodoCleanArchitectureApplication.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/event/TaskCompletedEvent.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/exception/DomainValidationException.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/ChecklistItem.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/Priority.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/Task.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/TaskId.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/TaskStatus.java
+/home/rostam/Documents/projects/java/todo-clean-architecture/src/main/java/com/example/todo_clean_architecture/domain/model/TaskTitle.java
